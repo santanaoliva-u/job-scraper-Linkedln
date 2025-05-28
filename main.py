@@ -24,6 +24,7 @@ def logo():
 [italic dim]GitHub: @santanaoliva_u | v2.1[/]
     """)
 
+
 def load_cfg() -> dict:
     cfg_p = Path("config.json")
     if not cfg_p.exists():
