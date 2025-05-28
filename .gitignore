@@ -1,0 +1,39 @@
+# Entornos virtuales
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de Python bytecode y cachés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de log, salida o temporales
+*.log
+*.out
+*.tmp
+
+# Configuraciones del editor
+.vscode/
+.idea/
+*.swp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos o carpetas específicas del proyecto
+config.json
+output/
+
+# Archivos de prueba o builds (por si haces empaquetado)
+build/
+dist/
+*.egg-info/
+
+# Git y demás
+.git/
+
