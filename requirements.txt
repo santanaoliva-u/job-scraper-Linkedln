@@ -5,3 +5,4 @@ orjson==3.10.7
 rich==13.8.1
 python-telegram-bot==21.4
 python-daemon==3.0.1
+fake-useragent==1.5.1

@@ -15,6 +15,7 @@ __pycache__/
 *.log
 *.out
 *.tmp
+*.html
 
 # Configuraciones del editor
 .vscode/
@@ -29,11 +30,10 @@ Thumbs.db
 config.json
 output/
 
-# Archivos de prueba o builds (por si haces empaquetado)
+# Archivos de prueba o builds
 build/
 dist/
 *.egg-info/
 
 # Git y demás
 .git/
-
